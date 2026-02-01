@@ -353,7 +353,7 @@ GET /leaderboard?user_id=679d5a260264697ca72d7c4a
 
 ### 2. Get Top 10 Leaderboard
 **Endpoint:** `GET /leaderboard`
-- Retrieves the top 10 users with the highest scores, including their name, rank, score, and number of quizzes attempted.
+- Retrieves the top 10 users with the highest scores, including their name, rank, score, and number of quizzes attempted
 
 **Example Request:**
 ```plaintext
